@@ -8,3 +8,7 @@ The 2.0 version of the MOODY emotional diary app built in React.js/Redux/HTML/CS
 Express/Node/MongoDB for the back-end.
 
 It is built for the web as an exercice.
+
+Log In/ Log out implementation from scratch
+Then you can choose between 3 emotions (smiley faces) 
+Add a comment to this emotion if you want.
