@@ -1,0 +1,40 @@
+{
+  "name": "moody_react",
+  "version": "1.0.0",
+  "description": "emotional app",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-react": "^6.23.0",
+    "css-loader": "^0.28.0",
+    "dateformat": "^2.0.0",
+    "express": "^4.15.2",
+    "http-server": "^0.9.0",
+    "react": "^15.4.2",
+    "react-addons-css-transition-group": "^15.4.2",
+    "react-bootstrap": "^0.30.8",
+    "react-dom": "^15.4.2",
+    "react-infinite-calendar": "^2.1.5",
+    "react-redux": "^5.0.3",
+    "react-router": "^2.5.2",
+    "react-tiny-virtual-list": "^2.0.3",
+    "redux": "^3.6.0",
+    "redux-thunk": "^2.2.0",
+    "style-loader": "^0.16.1",
+    "webpack": "^2.3.3",
+    "webpack-dev-server": "^2.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "webpack-dev-server --inline --content-base . --history-api-fallback"
+  },
+  "repository": {
+    "type": "git",
+    "url": "moody_react"
+  },
+  "author": "nicole verhagen",
+  "license": "ISC"
+}
