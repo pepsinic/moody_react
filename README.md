@@ -9,6 +9,6 @@ Express/Node/MongoDB for the back-end.
 
 It is built for the web as an exercice.
 
-Log In/ Log out implementation from scratch.
+Log In/ Log out implementation from scratch with JSON web token for password security.
 Then you can choose between 3 emotions (smiley faces).
 Add a comment to this emotion if you want.
